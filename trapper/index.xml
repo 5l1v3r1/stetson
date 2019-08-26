@@ -1,14 +1,14 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x4015" PRODUCTNAME="Bose Hearphones" USE_DEVICE_VERSION="1" DSP="1">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE REVISION="1.6.4.1364" HTTPHOST="raw.githubusercontent.com" URLPATH="/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
+      <RELEASE REVISION="1.6.4.1364" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
             <IMAGE SUBID="0" LENGTH="1853148" CRC="0XFFFFFFFF" FILENAME="Hearphones-01.00-1.6.4.1364_stack_plus_app.dfu" NOFORCE="1" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="1" LENGTH="2266528" CRC="0X59C36352" FILENAME="Hearphones-01.00-1.6.4.1364_ext_signed.xuv" TARGET="1" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="2" LENGTH="21616" CRC="0XBD83EC32" FILENAME="Hearphones-01.00-1.6.4.1364_codec_coeffs_signed.xuv" TARGET="3" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="3" LENGTH="217152" CRC="0XB2CAE3C4" FILENAME="Hearphones-01.00-1.6.4.1364_dsp_coeffs_signed.xuv" TARGET="5" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="4" LENGTH="516096" CRC="0X2AF800F8" FILENAME="Hearphones-01.00-1.6.4.1364_dsp_update_signed.xuv" TARGET="6" NOFORCE="0" REVISION="1.6.4.1364"/>
       </RELEASE>
-      <RELEASE REVISION="1.6.5.1414" HTTPHOST="raw.githubusercontent.com" URLPATH="/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
+      <RELEASE REVISION="1.6.5.1414" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
             <IMAGE SUBID="0" LENGTH="1854528" CRC="0XFFFFFFFF" FILENAME="Hearphones-01.00-1.6.5.1414_stack_plus_app.dfu" NOFORCE="1" REVISION="1.6.5.1414"/>
             <IMAGE SUBID="1" LENGTH="2266528" CRC="0XF2C1DA2C" FILENAME="Hearphones-01.00-1.6.5.1414_ext_signed.xuv" TARGET="1" NOFORCE="0" REVISION="1.6.5.1414"/>
             <IMAGE SUBID="2" LENGTH="21616" CRC="0XBD83EC32" FILENAME="Hearphones-01.00-1.6.5.1414_codec_coeffs_signed.xuv" TARGET="3" NOFORCE="0" REVISION="1.6.5.1414"/>
@@ -17,14 +17,14 @@
       </RELEASE>
     </HARDWARE>
     <HARDWARE REVISION="01.10.00">
-      <RELEASE REVISION="1.6.4.1364" HTTPHOST="raw.githubusercontent.com" URLPATH="/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
+      <RELEASE REVISION="1.6.4.1364" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
             <IMAGE SUBID="0" LENGTH="1853192" CRC="0XFFFFFFFF" FILENAME="Hearphones-01.10-1.6.4.1364_stack_plus_app.dfu" NOFORCE="1" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="1" LENGTH="2266528" CRC="0X59C36352" FILENAME="Hearphones-01.10-1.6.4.1364_ext_signed.xuv" TARGET="1" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="2" LENGTH="21616" CRC="0XBD83EC32" FILENAME="Hearphones-01.10-1.6.4.1364_codec_coeffs_signed.xuv" TARGET="3" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="3" LENGTH="217152" CRC="0XB2CAE3C4" FILENAME="Hearphones-01.10-1.6.4.1364_dsp_coeffs_signed.xuv" TARGET="5" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="4" LENGTH="516096" CRC="0X3C655C4B" FILENAME="Hearphones-01.10-1.6.4.1364_dsp_update_signed.xuv" TARGET="6" NOFORCE="0" REVISION="1.6.4.1364"/>
       </RELEASE>
-      <RELEASE REVISION="1.6.5.1414" HTTPHOST="raw.githubusercontent.com" URLPATH="/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
+      <RELEASE REVISION="1.6.5.1414" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
             <IMAGE SUBID="0" LENGTH="1854572" CRC="0XFFFFFFFF" FILENAME="Hearphones-01.10-1.6.5.1414_stack_plus_app.dfu" NOFORCE="1" REVISION="1.6.5.1414"/>
             <IMAGE SUBID="1" LENGTH="2266528" CRC="0XF2C1DA2C" FILENAME="Hearphones-01.10-1.6.5.1414_ext_signed.xuv" TARGET="1" NOFORCE="0" REVISION="1.6.5.1414"/>
             <IMAGE SUBID="2" LENGTH="21616" CRC="0XBD83EC32" FILENAME="Hearphones-01.10-1.6.5.1414_codec_coeffs_signed.xuv" TARGET="3" NOFORCE="0" REVISION="1.6.5.1414"/>
@@ -33,14 +33,14 @@
       </RELEASE>
     </HARDWARE>
     <HARDWARE REVISION="01.20.00">
-      <RELEASE REVISION="1.6.4.1364" HTTPHOST="raw.githubusercontent.com" URLPATH="/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
+      <RELEASE REVISION="1.6.4.1364" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
             <IMAGE SUBID="0" LENGTH="1853192" CRC="0XFFFFFFFF" FILENAME="Hearphones-01.20-1.6.4.1364_stack_plus_app.dfu" NOFORCE="1" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="1" LENGTH="2266528" CRC="0X59C36352" FILENAME="Hearphones-01.20-1.6.4.1364_ext_signed.xuv" TARGET="1" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="2" LENGTH="21616" CRC="0XBD83EC32" FILENAME="Hearphones-01.20-1.6.4.1364_codec_coeffs_signed.xuv" TARGET="3" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="3" LENGTH="217152" CRC="0XB2CAE3C4" FILENAME="Hearphones-01.20-1.6.4.1364_dsp_coeffs_signed.xuv" TARGET="5" NOFORCE="0" REVISION="1.6.4.1364"/>
             <IMAGE SUBID="4" LENGTH="516096" CRC="0XB5397586" FILENAME="Hearphones-01.20-1.6.4.1364_dsp_update_signed.xuv" TARGET="6" NOFORCE="0" REVISION="1.6.4.1364"/>
       </RELEASE>
-      <RELEASE REVISION="1.6.5.1414" HTTPHOST="raw.githubusercontent.com" URLPATH="/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
+      <RELEASE REVISION="1.6.5.1414" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/stetson/master/trapper/" LANGUAGES="en-us,es-mx,fr">
             <IMAGE SUBID="0" LENGTH="1854572" CRC="0XFFFFFFFF" FILENAME="Hearphones-01.20-1.6.5.1414_stack_plus_app.dfu" NOFORCE="1" REVISION="1.6.5.1414"/>
             <IMAGE SUBID="1" LENGTH="2266528" CRC="0XF2C1DA2C" FILENAME="Hearphones-01.20-1.6.5.1414_ext_signed.xuv" TARGET="1" NOFORCE="0" REVISION="1.6.5.1414"/>
             <IMAGE SUBID="2" LENGTH="21616" CRC="0XBD83EC32" FILENAME="Hearphones-01.20-1.6.5.1414_codec_coeffs_signed.xuv" TARGET="3" NOFORCE="0" REVISION="1.6.5.1414"/>
