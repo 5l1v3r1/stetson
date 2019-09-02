@@ -13,7 +13,6 @@ Bose <a href="https://community.bose.com/t5/Wellness-Archive/Firmware-and-Bose-H
       <li>The percentage of battery charge remaining has been updated to better represent usage time remaining. Battery life remains at the same level of performance as previously, it is just the reporting of battery life that is now more accurate.</li>
     </ul>
   </li>
-</li>
 </ul>
 &#9677; 1.4.1 : <a href="https://community.bose.com/t5/Wellness-Archive/Firmware-1-4-1-Announcement-and-discussion/td-p/61019">Jul 19, 2017</a></br>
 <ul>
